@@ -1,6 +1,6 @@
 # OMEX: Omni-Execution Format
 
-OMEX (Omni-Execution Format) is a universal, modular format and execution interface designed for AI model representation, distributed AI reasoning, scalable inference, and multi-device coordination. OMEX serves as both a model representation layer and an orchestration layer, enabling intelligent task execution across mobile, browser, Pi devices, servers, and specialized inference nodes — creating a unified AI operating environment. Unlike other formats such as ONNX, OMEX doesn't convert or work on top of existing models; it IS the model format itself, enabling even ultra-large models (70B+) to run directly on constrained devices.
+OMEX (Omni-Execution Format) is a universal, modular format and execution interface designed for AI model representation, distributed AI reasoning, scalable inference, and multi-device coordination. OMEX serves as both a model representation layer and an orchestration layer, enabling intelligent task execution across mobile, browser, Pi devices, servers, and specialized inference nodes — creating a unified AI operating environment. Enabling even ultra-large models (70B+) to run directly on constrained devices.
 
 
 ---
